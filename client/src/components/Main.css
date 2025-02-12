@@ -1,0 +1,18 @@
+.main{
+    position: relative;
+    text-align: center;
+    
+}
+
+.main-text{
+    position: absolute;
+    margin-top: 23vh;
+    margin-left: 8vw;
+}
+
+.vertical{
+    broder-left: 15px black;
+    height: 50px;
+    
+
+}

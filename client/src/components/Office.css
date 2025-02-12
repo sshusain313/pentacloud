@@ -1,0 +1,12 @@
+.vartical{
+    border-left: 2px solid  #b6b6ab;
+    height: 100px;
+}
+.security{
+    border-right: 1px solid  #b6b6ab;
+   
+}
+.planning{
+    border-left: 1px solid #b6b6ab;
+    border-right: 1px solid  #b6b6ab;
+}
